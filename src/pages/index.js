@@ -40,13 +40,9 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-8 text-center">
-                <h2 className="text-white mt-0">We've got what you need!</h2>
+                <h2 className="text-white mt-0">Let's work together!</h2>
                 <hr className="divider light my-4"/>
-                <p className="text-white-50 mb-4">Start Bootstrap has everything you need to get your new website up
-                  and
-                  running in no time! Choose one of our open source, free to download, and easy to use themes! No
-                  strings
-                  attached!</p>
+                <p className="text-white-50 mb-4">We are experienced software professionals. Our team delivers great applications using deep technical knowledge and strong practices in the development process.</p>
                 <a className="btn btn-light btn-xl js-scroll-trigger" href="#services"
                    onClick={Scroller.handleAnchorScroll}>Get Started!</a>
               </div>
@@ -62,29 +58,29 @@ export default class IndexPage extends React.Component {
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
                   <i className="fas fa-4x fa-gem text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Sturdy Themes</h3>
-                  <p className="text-muted mb-0">Our themes are updated regularly to keep them bug free!</p>
+                  <h3 className="h4 mb-2">Web Development</h3>
+                  <p className="text-muted mb-0">We offer custom, high performance, user-friendly web-based applications for every industry with Angular2+/Typescript</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
                   <i className="fas fa-4x fa-laptop-code text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Up to Date</h3>
-                  <p className="text-muted mb-0">All dependencies are kept current to keep things fresh.</p>
+                  <h3 className="h4 mb-2">Software</h3>
+                  <p className="text-muted mb-0">We offer reliable, secure and clean software solutions</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
                   <i className="fas fa-4x fa-globe text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Ready to Publish</h3>
-                  <p className="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+                  <h3 className="h4 mb-2">Team</h3>
+                  <p className="text-muted mb-0">Our dedicated team produce successful projects</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
                   <i className="fas fa-4x fa-heart text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Made with Love</h3>
-                  <p className="text-muted mb-0">Is it really open source if it's not made with love?</p>
+                  <h3 className="h4 mb-2">Client</h3>
+                  <p className="text-muted mb-0">We are really customer oriented</p>
                 </div>
               </div>
             </div>
@@ -176,13 +172,6 @@ export default class IndexPage extends React.Component {
           </div>
         </section>
 
-        <section className="page-section bg-dark text-white">
-          <div className="container text-center">
-            <h2 className="mb-4">Free Download at Start Bootstrap!</h2>
-            <a className="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Download Now!</a>
-          </div>
-        </section>
-
         <section className="page-section" id="contact">
           <div className="container">
             <div className="row justify-content-center">
@@ -197,11 +186,11 @@ export default class IndexPage extends React.Component {
             <div className="row">
               <div className="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <div>+1 (202) 555-0149</div>
+                <div>+44 (737) 611-3508</div>
               </div>
               <div className="col-lg-4 mr-auto text-center">
                 <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                <a className="d-block" href="mailto:contact@overrideltd.com">contact@overrideltd.com</a>
+                <a className="d-block" href="mailto:contact@overrideltd.com">contact@overrideconsulting.com</a>
               </div>
             </div>
           </div>
